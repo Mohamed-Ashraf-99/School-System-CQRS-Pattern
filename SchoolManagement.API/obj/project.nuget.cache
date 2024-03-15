@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kRBo1RQ8D1C4oPnHqQevSXm2BBACK/xVo5+Za0MTuy+BN3bt4yvh+ed44zem2poGwTqchZ1I5S7AFozrbkWprQ==",
+  "dgSpecHash": "9P759n+7+IF98SBWGEeZSFM7Qhmy+67MJvHC2iZMEz/DyHhjQ76It2elL5LQ3MvdHisWyVg5ao9v+JE8hBHvmw==",
   "success": true,
-  "projectFilePath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.API\\SchoolManagement.API.csproj",
+  "projectFilePath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.API\\SchoolManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

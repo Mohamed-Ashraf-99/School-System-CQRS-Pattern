@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Core\\SchoolManagement.Core.csproj": {}
+    "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Core\\SchoolManagement.Core.csproj": {}
   },
   "projects": {
-    "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Core\\SchoolManagement.Core.csproj": {
+    "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Core\\SchoolManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
         "projectName": "SchoolManagement.Core",
-        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
+        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Core\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
-                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj"
+              "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
+                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj"
               },
-              "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
-                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
+              "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
+                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
               },
-              "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Services\\SchoolManagement.Services.csproj": {
-                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Services\\SchoolManagement.Services.csproj"
+              "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Services\\SchoolManagement.Services.csproj": {
+                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Services\\SchoolManagement.Services.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
+    "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj",
         "projectName": "SchoolManagement.Data",
-        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj",
+        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
+    "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
         "projectName": "SchoolManagement.Infrastructure",
-        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,8 +163,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
-                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj"
+              "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
+                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Services\\SchoolManagement.Services.csproj": {
+    "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Services\\SchoolManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Services\\SchoolManagement.Services.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Services\\SchoolManagement.Services.csproj",
         "projectName": "SchoolManagement.Services",
-        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Services\\SchoolManagement.Services.csproj",
+        "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Services\\SchoolManagement.Services.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Services\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -227,11 +227,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
-                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj"
+              "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj": {
+                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj"
               },
-              "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
-                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
+              "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
+                "projectPath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ehDgUREDcIj7viGeMzxPxRgGSWkUjMqsNBf2Z3TmwAAkoBEF5BZ1OzFtjdbmjO1ZQur/qYz5SZsgrTyFr21SKA==",
+  "dgSpecHash": "W/ALV8plwvKDVD2d3K0Jv0OgoxP8X6zooK9awQhp9CD41ofI9KW8sPv9ycjDaHipI7mFQ8ly+TyOF+9sBEighg==",
   "success": true,
-  "projectFilePath": "D:\\1-Programming\\2-ITI-Intake-44\\34-API\\Day1\\SchoolManagement\\SchoolManagement.Data\\SchoolManagement.Data.csproj",
+  "projectFilePath": "D:\\1-Programming\\2-ITI-Intake-44\\35-School-Management-CQRS\\School-System-CQRS-Pattern\\SchoolManagement.Data\\SchoolManagement.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
